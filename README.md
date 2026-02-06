@@ -8,7 +8,7 @@
 
 
 ## Industry
-
+* [Guardsquare](https://www.guardsquare.com/)
 
 ## Institution
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
