@@ -1,6 +1,7 @@
-# **`Awesome`** Cyber Security in Belgium
+<div align="center">
 
-
+# **`Awesome`** Cyber Security in _`Belgium`_ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 ## Education
 
