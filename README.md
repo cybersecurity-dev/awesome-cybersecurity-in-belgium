@@ -15,3 +15,10 @@
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
+
+## Events
+* [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
+* [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
+
+## News (`RSS`)
+* [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
