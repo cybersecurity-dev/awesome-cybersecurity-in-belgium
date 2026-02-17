@@ -38,6 +38,7 @@
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
+* [Proximus Ada](https://www.proximus-ada.com/)
 * [SpotIT](https://www.spotit.be/)
 * [Toreon](https://www.toreon.com/)
 
@@ -52,6 +53,7 @@
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
+* [Proximus Ada](https://www.proximus-ada.com/blog/)
 
 ##
 
