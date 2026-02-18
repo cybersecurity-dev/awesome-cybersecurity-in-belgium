@@ -22,6 +22,9 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+## **`Conference`**
+* [BruCON](https://www.brucon.org/)
+
 ## **`Education`**
 
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
@@ -34,6 +37,7 @@
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 
 ## **`Industry`**
+* [Approach Cyber](https://www.approach-cyber.com/)
 * [Cudeso.be](https://cudeso.be/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
