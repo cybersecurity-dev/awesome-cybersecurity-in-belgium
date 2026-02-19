@@ -25,6 +25,9 @@
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
 
+## **`CTF`**
+* [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
+
 ## **`Education`**
 
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
@@ -39,6 +42,7 @@
 ## **`Industry`**
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Cudeso.be](https://cudeso.be/)
+* [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
