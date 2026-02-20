@@ -56,6 +56,7 @@
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
+* [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 
 ## **`News`** (_`RSS`_)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
