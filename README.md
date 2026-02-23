@@ -28,9 +28,11 @@
 ## **`CTF`**
 * [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
 
+
 ## **`Education`**
 
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
+* [ULB - Master in cybersecurity](https://www.ulb.be/en/programme/m-secuc)
 
 ## **`Events`**
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
