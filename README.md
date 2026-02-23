@@ -36,12 +36,14 @@
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
 * [COSIC](https://www.esat.kuleuven.be/cosic/?post_type=tribe_events)
+* [Davinsi Labs](https://www.davinsi.com/en/events)
 * [DistriNet](https://distrinet.cs.kuleuven.be/events/events)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 
 ## **`Industry`**
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Cudeso.be](https://cudeso.be/)
+* [Davinsi Labs](https://www.davinsi.com/)
 * [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
