@@ -39,6 +39,7 @@
 * [Davinsi Labs](https://www.davinsi.com/en/events)
 * [DistriNet](https://distrinet.cs.kuleuven.be/events/events)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
+* [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
 ## **`Industry`**
 * [Approach Cyber](https://www.approach-cyber.com/)
@@ -59,6 +60,7 @@
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
+* [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 
 ## **`News`** (_`RSS`_)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
