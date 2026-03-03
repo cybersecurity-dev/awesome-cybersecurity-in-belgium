@@ -54,6 +54,7 @@
 
 ## **`Industry`**
 * [Approach Cyber](https://www.approach-cyber.com/)
+* [Crimson7](https://www.crimson7.io/)
 * [Cudeso.be](https://cudeso.be/)
 * [Davinsi Labs](https://www.davinsi.com/)
 * [Easi](https://easi.net/)
