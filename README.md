@@ -13,6 +13,9 @@
 </p>
 
 ## 📖 **`Contents`**
+- [Community](#community)
+- [Conference](#conference)
+- [CTF](#ctf)
 - [Education](#education)
 - [Events](#events)
 - [Industry](#industry)
@@ -22,8 +25,14 @@
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
+## **`Community`**
+* [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
+
+
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
+
 
 ## **`CTF`**
 * [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
