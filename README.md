@@ -67,6 +67,7 @@
 * [Toreon](https://www.toreon.com/)
 
 ## **`Institution`**
+* [Data Protection Institute](https://www.dp-institute.eu/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
@@ -74,6 +75,7 @@
 * [National Crisis Center](https://crisiscenter.be/en)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
+* [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
 ## **`News`** (_`RSS`_)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
