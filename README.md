@@ -63,6 +63,7 @@
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Proximus Ada](https://www.proximus-ada.com/)
+* [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
 * [Toreon](https://www.toreon.com/)
 
