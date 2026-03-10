@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://cppreference.com/">
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Cpp_logo.svg" />
+        </a>
+    </p>
 
 # **`Awesome`** Cyber Security in _`Belgium`_ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
