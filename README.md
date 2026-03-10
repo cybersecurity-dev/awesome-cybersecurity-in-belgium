@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://cppreference.com/">
-          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Cpp_logo.svg" />
+          <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Belgium.svg" />
         </a>
     </p>
 
