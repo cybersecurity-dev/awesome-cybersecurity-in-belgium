@@ -69,6 +69,7 @@
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
+* [SecWise](https://secwise.be/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
 * [Toreon](https://www.toreon.com/)
