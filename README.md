@@ -32,6 +32,7 @@
 
 
 ## **`Community`**
+* [BSides Limburg](https://www.bsides-limburg.be/)
 * [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
 * [OWASP Belgium](https://owasp.org/www-chapter-belgium/)
 
