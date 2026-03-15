@@ -71,6 +71,7 @@
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
 * [Resilix](https://www.resilix.be/)
+* [Secutec](https://secutec.com/)
 * [SecWise](https://secwise.be/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
