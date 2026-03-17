@@ -89,10 +89,18 @@
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
 ## **`News`** (_`RSS`_)
+* [COSIC](https://www.esat.kuleuven.be/cosic/news/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
+* [Davinsi Labs](https://www.davinsi.com/news)
+* [DistriNet](https://distrinet.cs.kuleuven.be/news)
+* [Guardsquare](https://www.guardsquare.com/blog)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
+* [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
+* [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
+* [Toreon](https://www.toreon.com/news/)
+
 
 ##
 
