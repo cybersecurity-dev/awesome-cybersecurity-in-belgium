@@ -46,9 +46,10 @@
 
 
 ## **`Education`**
-
+* [BeCode](https://becode.org/en/job-seekers/trainings/cybersecurity)
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
 * [ULB - Master in cybersecurity](https://www.ulb.be/en/programme/m-secuc)
+
 
 ## **`Events`**
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
@@ -85,6 +86,7 @@
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
+* [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
