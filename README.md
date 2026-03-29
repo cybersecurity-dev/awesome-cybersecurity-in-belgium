@@ -52,6 +52,7 @@
 
 
 ## **`Events`**
+* [Aikido Security](https://luma.com/aikidosecurity)
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
 * [COSIC](https://www.esat.kuleuven.be/cosic/?post_type=tribe_events)
@@ -61,6 +62,7 @@
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
 ## **`Industry`**
+* [Aikido Security](https://www.aikido.dev/)
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Crimson7](https://www.crimson7.io/)
 * [Cudeso.be](https://cudeso.be/)
@@ -91,6 +93,7 @@
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
 ## **`News`** (_`RSS`_)
+* [Aikido Security](https://www.aikido.dev/blog)
 * [COSIC](https://www.esat.kuleuven.be/cosic/news/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
 * [Davinsi Labs](https://www.davinsi.com/news)
