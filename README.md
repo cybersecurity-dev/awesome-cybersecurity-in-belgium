@@ -81,12 +81,13 @@
 * [Toreon](https://www.toreon.com/)
 
 ## **`Institution`**
+* [CETIC](https://www.cetic.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
