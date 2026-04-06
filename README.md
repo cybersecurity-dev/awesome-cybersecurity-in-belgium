@@ -71,6 +71,7 @@
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
+* [Nexova](https://www.nexovagroup.eu/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
 * [Resilix](https://www.resilix.be/)
@@ -78,6 +79,7 @@
 * [SecWise](https://secwise.be/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
+* [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
 
 ## **`Institution`**
