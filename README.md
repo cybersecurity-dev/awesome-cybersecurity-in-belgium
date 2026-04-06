@@ -103,6 +103,7 @@
 * [DistriNet](https://distrinet.cs.kuleuven.be/news)
 * [Guardsquare](https://www.guardsquare.com/blog)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
+* [Nexova](https://www.nexovagroup.eu/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
