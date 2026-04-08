@@ -39,6 +39,7 @@
 
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
+* [Course on Cryptography and Cybersecurity by COSIC](https://www.esat.kuleuven.be/cosic/events/cosic-course/)
 * [SecAppDev](https://secappdev.org/)
 
 ## **`CTF`**
