@@ -39,7 +39,7 @@
 
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
-
+* [SecAppDev](https://secappdev.org/)
 
 ## **`CTF`**
 * [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
