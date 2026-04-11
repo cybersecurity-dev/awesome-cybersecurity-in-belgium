@@ -85,6 +85,7 @@
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
+* [Cybersecurity in Flanders](https://www.cybersecurityinvlaanderen.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
@@ -95,6 +96,7 @@
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
+* [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
 ## **`News`** (_`RSS`_)
 * [Aikido Security](https://www.aikido.dev/blog)
