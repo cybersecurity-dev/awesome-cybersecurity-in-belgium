@@ -82,6 +82,7 @@
 * [SpotIT](https://www.spotit.be/)
 * [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
+* [Win](https://www.win.be/)
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
@@ -112,7 +113,6 @@
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
-
 
 ##
 
