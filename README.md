@@ -114,6 +114,13 @@
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
 
+## **`JOBS`**
+* [Aikido Security](https://www.aikido.dev/company/careers)
+* [Approach Cyber](https://www.approach-cyber.com/join-us/)
+* [Crimson7](https://www.crimson7.io/careers)
+* [Davinsi Labs](https://www.davinsi.com/en/careers)
+* [Guardsquare](https://www.guardsquare.com/careers)
+
 ##
 
 ### My Other Awesome Lists
