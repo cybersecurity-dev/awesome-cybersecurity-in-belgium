@@ -59,6 +59,7 @@
 * [COSIC](https://www.esat.kuleuven.be/cosic/?post_type=tribe_events)
 * [Davinsi Labs](https://www.davinsi.com/en/events)
 * [DistriNet](https://distrinet.cs.kuleuven.be/events/events)
+* [ECSO (European Cyber Security Organisation)](https://ecs-org.eu/ecso-events/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
@@ -89,6 +90,7 @@
 * [CETIC](https://www.cetic.be/)
 * [Cybersecurity in Flanders](https://www.cybersecurityinvlaanderen.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
+* [ECSO (European Cyber Security Organisation)](https://ecs-org.eu/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
@@ -106,6 +108,7 @@
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
 * [Davinsi Labs](https://www.davinsi.com/news)
 * [DistriNet](https://distrinet.cs.kuleuven.be/news)
+* [ECSO (European Cyber Security Organisation)](https://ecs-org.eu/newsroom/)
 * [Guardsquare](https://www.guardsquare.com/blog)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
 * [Nexova](https://www.nexovagroup.eu/news)
