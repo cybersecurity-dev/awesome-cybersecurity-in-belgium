@@ -72,6 +72,7 @@
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
+* [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
@@ -120,6 +121,7 @@
 * [Crimson7](https://www.crimson7.io/careers)
 * [Davinsi Labs](https://www.davinsi.com/en/careers)
 * [Guardsquare](https://www.guardsquare.com/careers)
+* [Netleaf](https://www.netleaf.be/jobs/)
 * [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
