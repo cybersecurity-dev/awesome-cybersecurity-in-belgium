@@ -84,6 +84,7 @@
 * [SpotIT](https://www.spotit.be/)
 * [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
+* [Wavestone](https://www.wavestone.com/fr/locations/belgium/)
 * [Win](https://www.win.be/)
 
 ## **`Institution`**
@@ -135,6 +136,7 @@
 * [SpotIT](https://jobs.spotit.be/#jobs)
 * [Starion](https://www.stariongroup.eu/careers/job-search/)
 * [Toreon](https://www.toreon.com/jobs/#vacancies)
+* [Wavestone](https://www.wavestone.com/fr/carrieres/nos-offres/?city=brussels-fr&sort=desc)
 * [Win](https://www.win.be/nl/jobs)
 
 
