@@ -121,6 +121,7 @@
 * [Toreon](https://www.toreon.com/news/)
 
 ## **`JOBS`**
+* [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [Crimson7](https://www.crimson7.io/careers)
@@ -151,5 +152,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/wesome-cybersecurity-in-belgium/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-cyber-security-in-belgium-)
