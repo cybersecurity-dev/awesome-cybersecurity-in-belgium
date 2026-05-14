@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# **`Awesome`** Cyber Security in _`Belgium`_ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [CyberSecurity](https://wikipedia.org/wiki/Computer_security) in [_`Belgium`_](https://wikipedia.org/wiki/Belgium) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 <p align="center">
