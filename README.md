@@ -64,6 +64,7 @@
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
 ## **`Industry`**
+* [Agoria](https://www.agoria.be/)
 * [Aikido Security](https://www.aikido.dev/)
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Crimson7](https://www.crimson7.io/)
