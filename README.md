@@ -73,6 +73,7 @@
 * [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
+* [KEYES](https://www.keyes.eu/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
@@ -127,6 +128,7 @@
 * [Crimson7](https://www.crimson7.io/careers)
 * [Davinsi Labs](https://www.davinsi.com/en/careers)
 * [Guardsquare](https://www.guardsquare.com/careers)
+* [KEYES](https://nrbcareers.com/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Netleaf](https://www.netleaf.be/jobs/)
 * [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
