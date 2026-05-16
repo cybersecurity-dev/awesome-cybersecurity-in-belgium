@@ -77,6 +77,7 @@
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
+* [nomios](https://www.nomios.be/en/security/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
 * [Resilix](https://www.resilix.be/)
@@ -131,6 +132,7 @@
 * [KEYES](https://nrbcareers.com/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Netleaf](https://www.netleaf.be/jobs/)
 * [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
+* [Nomios](https://jobs.nomios.com/?jobs-c88dea0d%5Btab%5D=BE)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
 * [Resilix](https://www.resilix.be/jobs)
@@ -158,4 +160,4 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-[🔼 Back to top](#awesome-cyber-security-in-belgium-)
+[🔼 Back to top](#awesome-cybersecurity-in-belgium-)
