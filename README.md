@@ -77,6 +77,7 @@
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
+* [NGRAVE](https://ngrave.io/)
 * [nomios](https://www.nomios.be/en/security/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
@@ -104,6 +105,7 @@
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
+* [VSSE (_Veiligheid van de Staat-La Sûreté de l'Etat_)](https://www.vsse.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 * [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
