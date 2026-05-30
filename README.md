@@ -73,6 +73,7 @@
 * [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
+* [icity.brussels](https://icity.brussels/)
 * [KEYES](https://www.keyes.eu/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
