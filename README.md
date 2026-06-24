@@ -132,6 +132,8 @@
 * [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
+* [BDO](https://careers-bdobelgium.icims.com/jobs/)
+* [Cegeka](https://www.cegeka.com/en/be/jobs/about-cegeka)
 * [Crimson7](https://www.crimson7.io/careers)
 * [Davinsi Labs](https://www.davinsi.com/en/careers)
 * [Guardsquare](https://www.guardsquare.com/careers)
