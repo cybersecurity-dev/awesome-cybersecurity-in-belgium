@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# **`Awesome`** [CyberSecurity](https://wikipedia.org/wiki/Computer_security) in [_`Belgium`_](https://wikipedia.org/wiki/Belgium) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Cybersecurity](https://wikipedia.org/wiki/Computer_security) in [_`Belgium`_](https://wikipedia.org/wiki/Belgium) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 <p align="center">
@@ -26,6 +26,7 @@
 - [Industry](#industry)
 - [Institution](#institution)
 - [News](#news-rss)
+- [JOBS](#jobs)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
