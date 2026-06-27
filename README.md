@@ -143,6 +143,7 @@
 * [Euroclear](https://don.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs?keyword=cyber&lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000193690)
 * [EY - Cybersecurity](https://careers.ey.com/ey/search/?createNewAlert=false&q=Cybersecurity&optionsFacetsDD_customfield1=&optionsFacetsDD_country=BE&optionsFacetsDD_city=)
 * [Guardsquare](https://www.guardsquare.com/careers)
+* [IBM Belgium](https://www.ibm.com/careers/search?field_keyword_05[0]=Belgium&sort=dcdate_desc)
 * [Jarviss](https://jarviss.be/en/jobs-jarviss-is-hiring/)
 * [KEYES](https://keyescareers.eu/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Netleaf](https://www.netleaf.be/jobs/)
@@ -150,6 +151,7 @@
 * [Nomios](https://jobs.nomios.com/?jobs-c88dea0d%5Btab%5D=BE)
 * [NVISO](https://www.nviso.eu/jobs)
 * [Moore](https://jobs.moore.be/)
+* [Nokia Belgium](https://jobs.nokia.com/en/sites/CX_1/jobs?keyword=security&lastSelectedFacet=LOCATIONS&location=Belgium&locationId=300000000471490&locationLevel=country&mode=location&selectedLocationsFacet=300000000471490)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
 * [PwC - Technology, Cybersecurity & Privacy](https://www.pwc.be/en/careers/job-results.html?wdcountry=BEL&wdjobsite=Global_Experienced_Careers|Global_Campus_Careers&wdjfam=18869697|18869704|18869705|18869714|18869716|18869717|18869718|18869632|18869794|18869812|18869836|18869838|18869591|18869634)
@@ -163,6 +165,8 @@
 * [Toreon](https://www.toreon.com/jobs/#vacancies)
 * [Wavestone](https://www.wavestone.com/fr/carrieres/nos-offres/?city=brussels-fr&sort=desc)
 * [Win](https://www.win.be/nl/jobs)
+
+
 
 
 ##
