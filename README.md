@@ -75,6 +75,7 @@
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
 * [icity.brussels](https://icity.brussels/)
+* [Intigriti](https://www.intigriti.com/)
 * [Jarviss](https://jarviss.be/)
 * [KEYES](https://www.keyes.eu/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
@@ -147,6 +148,7 @@
 * [Guardsquare](https://www.guardsquare.com/careers)
 * [IBM Belgium](https://www.ibm.com/careers/search?field_keyword_05[0]=Belgium&sort=dcdate_desc)
 * [Infocura](https://www.infocura.be/jobs)
+* [Intigriti](https://intigriti.jobs.personio.com/)
 * [Jarviss](https://jarviss.be/en/jobs-jarviss-is-hiring/)
 * [KEYES](https://keyescareers.eu/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Keyrus](https://jobs.keyrus.be/jobs)
