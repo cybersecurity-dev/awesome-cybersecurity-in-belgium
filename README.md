@@ -170,6 +170,8 @@
 * [Sopra Steria Belgium](https://careers.soprasteria.be/jobs)
 * [SpotIT](https://jobs.spotit.be/#jobs)
 * [Starion](https://www.stariongroup.eu/careers/job-search/)
+* [TD SYNNEX](https://careers.tdsynnex.com/us/en/belgium-careers)
+* [Thales](https://careers.thalesgroup.com/global/en/search-results?keywords=security)
 * [Toreon](https://www.toreon.com/jobs/#vacancies)
 * [Wavestone](https://www.wavestone.com/fr/carrieres/nos-offres/?city=brussels-fr&sort=desc)
 * [WESTPOLE](https://portal.dynamicsats.com/JobListing/367df962-0028-4cef-a07d-5a3da5c143b6)
