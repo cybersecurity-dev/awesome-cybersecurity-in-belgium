@@ -136,6 +136,7 @@
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [AppSys](https://www.workatappsys.be/jobs)
 * [BDO](https://careers-bdobelgium.icims.com/jobs/)
+* [CBTW](https://jobs-collaborationbetterstheworld.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchLocation=12889--)
 * [Cegeka](https://www.cegeka.com/en/be/jobs/about-cegeka)
 * [Core ICT](https://www.core-ict.be/werken-bij-core-ict/)
 * [Cronos](https://cronos-groep.be/contact/)
@@ -148,6 +149,7 @@
 * [Guardsquare](https://www.guardsquare.com/careers)
 * [IBM Belgium](https://www.ibm.com/careers/search?field_keyword_05[0]=Belgium&sort=dcdate_desc)
 * [Infocura](https://www.infocura.be/jobs)
+* [Informa](https://www.informa.nl/werken-bij/vacatures/)
 * [Intigriti](https://intigriti.jobs.personio.com/)
 * [Jarviss](https://jarviss.be/en/jobs-jarviss-is-hiring/)
 * [KEYES](https://keyescareers.eu/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
@@ -170,10 +172,8 @@
 * [Starion](https://www.stariongroup.eu/careers/job-search/)
 * [Toreon](https://www.toreon.com/jobs/#vacancies)
 * [Wavestone](https://www.wavestone.com/fr/carrieres/nos-offres/?city=brussels-fr&sort=desc)
+* [WESTPOLE](https://portal.dynamicsats.com/JobListing/367df962-0028-4cef-a07d-5a3da5c143b6)
 * [Win](https://www.win.be/nl/jobs)
-
-
-
 
 ##
 
