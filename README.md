@@ -144,6 +144,7 @@
 * [CBTW](https://jobs-collaborationbetterstheworld.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchLocation=12889--)
 * [Cegeka](https://www.cegeka.com/en/be/jobs/about-cegeka)
 * [Cheops](https://www.cheops.com/jobs/)
+* [Corbit](https://corbit.be/jobs)
 * [Core ICT](https://www.core-ict.be/werken-bij-core-ict/)
 * [CRANIUM](https://www.cranium.eu/job-openings/)
 * [Crelan](https://www.crelan.be/nl/jobs/hoofdzetel?job_domains%5B3555%5D=3555)
@@ -177,6 +178,7 @@
 * [Nomios](https://jobs.nomios.com/?jobs-c88dea0d%5Btab%5D=BE)
 * [NTT Data](https://careers.emeal.nttdata.com/s/?language=en_US&pcountry=Belgica)
 * [NVISO](https://www.nviso.eu/jobs)
+* [Mind OSS](https://mind.be/join-us/)
 * [Moore](https://jobs.moore.be/)
 * [Multitel](https://www.multitel.eu/who-we-are/join-our-team/)
 * [Nokia Belgium](https://jobs.nokia.com/en/sites/CX_1/jobs?keyword=security&lastSelectedFacet=LOCATIONS&location=Belgium&locationId=300000000471490&locationLevel=country&mode=location&selectedLocationsFacet=300000000471490)
@@ -210,6 +212,7 @@
 * [Wavestone](https://www.wavestone.com/fr/carrieres/nos-offres/?city=brussels-fr&sort=desc)
 * [WESTPOLE](https://portal.dynamicsats.com/JobListing/367df962-0028-4cef-a07d-5a3da5c143b6)
 * [Win](https://www.win.be/nl/jobs)
+* [XFA](https://xfa.tech/career)
 
 ##
 
