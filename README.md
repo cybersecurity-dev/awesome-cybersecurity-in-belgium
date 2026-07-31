@@ -89,6 +89,7 @@
 * [NVISO](https://www.nviso.eu/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
+* [Refracted Security](https://refracted.eu/)
 * [Resilix](https://www.resilix.be/)
 * [Sagacify](https://www.sagacify.com/)
 * [Secutec](https://secutec.com/)
@@ -101,6 +102,7 @@
 * [Toreon](https://www.toreon.com/)
 * [Wavestone](https://www.wavestone.com/fr/locations/belgium/)
 * [Win](https://www.win.be/)
+* [ZeroBit](https://zerobit.be/)
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
@@ -130,6 +132,7 @@
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
 * [Nexova](https://www.nexovagroup.eu/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
+* [Refracted Security](https://refracted.eu/blog-insights/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
@@ -151,6 +154,7 @@
 * [Cronos](https://cronos-groep.be/contact/)
 * [Crimson7](https://www.crimson7.io/careers)
 * [Cyberwise](https://www.cyberwise.be/jobs)
+* [Damovo](https://www.damovo.com/lifeatdamovo/)
 * [Davinsi Labs](https://www.davinsi.com/en/careers)
 * [Deloitte - Cyberseurity](https://deloittebe.avature.net/en_US/careers/SearchJobs/security?listFilterMode=1&jobRecordsPerPage=18&)
 * [Devoteam](https://www.devoteam.com/be/jobs/)
