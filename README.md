@@ -143,6 +143,7 @@
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
 * [Nexova](https://www.nexovagroup.eu/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
+* [Proximus NXT](https://nxt.proximus.be/cybersecurity_nxt_en)
 * [Refracted Security](https://refracted.eu/blog-insights/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
