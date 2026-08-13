@@ -154,8 +154,10 @@
 * [Toreon](https://www.toreon.com/news/)
 
 ## **`JOBS`**
+* [ACEN](https://www.acen.eu/jobs/)
 * [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
+* [Apogado](https://apogado.com/jobs/)
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [AppSys](https://www.workatappsys.be/jobs)
 * [BDO](https://careers-bdobelgium.icims.com/jobs/)
@@ -210,6 +212,7 @@
 * [Proximus](https://jobs.proximus.com/be/en/search-results?keywords=security)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
 * [PwC - Technology, Cybersecurity & Privacy](https://www.pwc.be/en/careers/job-results.html?wdcountry=BEL&wdjobsite=Global_Experienced_Careers|Global_Campus_Careers&wdjfam=18869697|18869704|18869705|18869714|18869716|18869717|18869718|18869632|18869794|18869812|18869836|18869838|18869591|18869634)
+* [Red System](https://redsystem.io/jobs/)
 * [Resilix](https://www.resilix.be/jobs)
 * [Sagacify](https://jobs.sagacify.com/)
 * [Savaco](https://careers.savaco.com/jobs)
