@@ -74,6 +74,7 @@
 * [Crimson7](https://www.crimson7.io/)
 * [Cudeso.be](https://cudeso.be/)
 * [Curios](https://curios-it.eu/)
+* [CyberMinute](https://cyberminute.com/)
 * [Cyberwise](https://www.cyberwise.be/)
 * [Davinsi Labs](https://www.davinsi.com/)
 * [DigiSôter](https://www.digisoter.com/)
@@ -154,6 +155,7 @@
 * [Toreon](https://www.toreon.com/news/)
 
 ## **`JOBS`**
+* [Accenture](https://www.accenture.com/be-en/careers/jobsearch?aoi=Security)
 * [ACEN](https://www.acen.eu/jobs/)
 * [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
@@ -171,6 +173,7 @@
 * [Crelan](https://www.crelan.be/nl/jobs/hoofdzetel?job_domains%5B3555%5D=3555)
 * [Cronos](https://cronos-groep.be/contact/)
 * [Crimson7](https://www.crimson7.io/careers)
+* [Cyrex](https://apply.workable.com/cyrex/)
 * [Curios](https://curios-it.eu/careers.html)
 * [Cyberwise](https://www.cyberwise.be/jobs)
 * [Damovo](https://www.damovo.com/lifeatdamovo/)
