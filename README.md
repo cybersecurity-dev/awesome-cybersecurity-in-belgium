@@ -11,7 +11,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -163,6 +163,7 @@
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [AppSys](https://www.workatappsys.be/jobs)
 * [BDO](https://careers-bdobelgium.icims.com/jobs/)
+* [BNP Group](https://www.bnpparibasfortis.com/nl/zoek-een-job/alle-vacatures)
 * [CBTW](https://jobs-collaborationbetterstheworld.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchLocation=12889--)
 * [Ceeyu](https://www.ceeyu.io/company/careers)
 * [Cegeka](https://www.cegeka.com/en/be/jobs/about-cegeka)
@@ -197,11 +198,12 @@
 * [itsme](https://www.itsme-id.com/business/career)
 * [Jarviss](https://jarviss.be/en/jobs-jarviss-is-hiring/)
 * [Jimber](https://jimber.io/about/)
-* [Lebon.IT](https://jobs.lebonit.be/)
+* [KBC Group](https://www.kbc.be/jobs/nl/vacatures.html?tagIds=job%2Ddomains%3Ait)
 * [KEYES](https://keyescareers.eu/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Keyrus](https://jobs.keyrus.be/jobs)
 * [Keystone Solutions](https://www.keystone-solutions.be/en/careers)
 * [KPMG](https://kpmg-career.talent-soft.com/job/list-of-jobs.aspx)
+* [Lebon.IT](https://jobs.lebonit.be/)
 * [Mastercard](https://careers.mastercard.com/us/en/search-results?from=5&s=1)
 * [Netcure](https://netcure.be/jobs/)
 * [Netleaf](https://www.netleaf.be/jobs/)
