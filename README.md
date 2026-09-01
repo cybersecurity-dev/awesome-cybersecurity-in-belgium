@@ -139,8 +139,9 @@
 * [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
 ## **`News`** (_`RSS`_)
-* [Aikido Security](https://www.aikido.dev/blog)
+* [Aikido Security](https://www.aikido.dev/blog) - [`RSS`](https://www.aikido.dev/blog/rss.xml)
 * [COSIC](https://www.esat.kuleuven.be/cosic/news/)
+* [Crimson7](https://www.crimson7.io/resources/blogs)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
 * [Davinsi Labs](https://www.davinsi.com/news)
 * [DistriNet](https://distrinet.cs.kuleuven.be/news)
@@ -153,8 +154,12 @@
 * [Refracted Security](https://refracted.eu/blog-insights/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news) - [`RSS` - News Feed](https://ccb.belgium.be/news.xml) | [`RSS`- Advisories Feed](https://ccb.belgium.be/advisories.xml)
 * [Toreon](https://www.toreon.com/news/)
+
+## Live Cyber Threat in Belgium
+* [publicalerts.be](https://publicalerts.be/)
+* [be-alert-municipalities](https://www.be-alert.be/en/be-alert-municipalities)
 
 ## **`JOBS`**
 * [Accenture](https://www.accenture.com/be-en/careers/jobsearch?aoi=Security)
